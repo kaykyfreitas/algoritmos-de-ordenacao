@@ -1,0 +1,11 @@
+Relatório de execução dos algoritmos de ordenação:
+
+Data de geração do relatório: 2023-06-16 00:37:14.109276
+
+Tamanho dos arrays utilizados: [1000, 5000, 10000, 15000, 20000]
+Tempo de execução - Bubble Sort: [0.05685758590698242, 1.4400107860565186, 5.761102676391602, 13.026227712631226, 23.309042930603027] s
+Tempo de execução - Merge Sort: [0.0020940303802490234, 0.012458562850952148, 0.026765823364257812, 0.04111075401306152, 0.05655789375305176] s
+Número de comparações - Bubble Sort: [499500, 12497500, 49995000, 112492500, 199990000]
+Número de comparações - Merge Sort: [8710, 55216, 120495, 189344, 261017]
+Número de trocas - Bubble Sort: [247553, 6171972, 25227752, 56495343, 100166092]
+Número de trocas - Merge Sort: [4387, 28115, 61329, 96053, 132682]
